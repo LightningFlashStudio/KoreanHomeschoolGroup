@@ -5,18 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Korean Homeschool Group"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Eunice Rancy"
+description              : "A collection of Groups, Events, and Activities for Homeschoolers in Korea."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "LightningFlashStudio/KoreanHomeschoolGroup"
+teaser                   : "/assets/images/banner-image.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -89,12 +89,15 @@ analytics:
 
 
 # Site Author
+owner:
+  favicon: favicon.ico
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : ""
+  avatar           : "/assets/images/Korean-Avatar.png"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea"
+  email            : "KoreanHSGroup@gmail.com"
+  favicon          : favicon.ico
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
